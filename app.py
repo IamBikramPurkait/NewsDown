@@ -123,7 +123,7 @@ def mainNewscode():
 
     # create a heading label
     heading_lbl = ttk.Label(
-        headingfrm, text="Welcome To the Bengali E-Newspaper App", style='R.TLabel')
+        headingfrm, text="Welcome To the NewsDown E-Newspaper App", style='R.TLabel')
     heading_lbl.pack(pady=10)
 
     # Create a body Frame
