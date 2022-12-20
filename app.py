@@ -105,7 +105,7 @@ def mainNewscode():
     # create a instance root
     root = Tk()
     # Set Title, geometry
-    root.title("Bengali E-Newspaper")
+    root.title("NewsDown")
     root.geometry("500x500")
     root.resizable(False, False)
 
